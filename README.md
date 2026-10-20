@@ -1,25 +1,22 @@
-<div align="center">
-
 # 🥷🍉 Gesture Fruit Ninja
+
+<div align="center">
 
 **Slice flying fruits in real-time using your bare hands and a webcam!**  
 *Powered by Python, Pygame, OpenCV, and Google MediaPipe Tasks API.*
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Pygame](https://img.shields.io/badge/Pygame-2.5%2B-00C853?style=for-the-badge&logo=python&logoColor=white)](https://www.pygame.org/)
-[![MediaPipe](https://img.shields.io/badge/MediaPipe-Vision_AI-00B0FF?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/mediapipe)
-[![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+<p>
+  <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pygame-2.5%2B-00C853?style=for-the-badge&logo=python&logoColor=white" alt="Pygame">
+  <img src="https://img.shields.io/badge/MediaPipe-Vision_AI-00B0FF?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe">
+  <img src="https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+</p>
 
 <br>
 
-<!-- Main Hero Image (Provided Image with Bottom-Right Gesture Camera) -->
-<img src="./Gemini_Generated_Image_jnmu4qjnmu4qjnmu-clean.jpg" alt="Gesture Fruit Ninja - Hand Tracking Preview" width="85%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.5);" />
+![Gesture Fruit Ninja - Hand Tracking Preview](Gemini_Generated_Image_jnmu4qjnmu4qjnmu-clean.jpg)
 
-<p align="center">
-  <i>Real-time 21-point hand skeletal tracking with Picture-in-Picture (PiP) camera overlay in the bottom-right corner.</i>
-</p>
-
----
+<p><i>Real-time 21-point hand skeletal tracking with Picture-in-Picture (PiP) camera overlay in the bottom-right corner.</i></p>
 
 [✨ Features](#-key-features) • 
 [📸 Screenshots](#-game-previews) • 
@@ -66,11 +63,11 @@
     <tr>
       <td align="center" width="50%">
         <b>🖐️ Hand Gesture Camera Mode (Bottom-Right PiP)</b><br><br>
-        <img src="./Gemini_Generated_Image_jnmu4qjnmu4qjnmu-clean.jpg" alt="Gesture Camera Overlay" width="100%"/>
+        ![Gesture Camera Overlay](Gemini_Generated_Image_jnmu4qjnmu4qjnmu-clean.jpg)
       </td>
       <td align="center" width="50%">
         <b>🖱️ Mouse Fallback / Clean Screen Mode</b><br><br>
-        <img src="./image_c80a81.jpg" alt="Game Over Clean Screen" width="100%"/>
+        ![Game Over Clean Screen](image_c80a81.jpg)
       </td>
     </tr>
   </table>
